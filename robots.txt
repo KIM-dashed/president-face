@@ -1,3 +1,2 @@
 User-agent: *
 Allow:/
-Sitemap: https://am-i-president.netlify.app/sitemap.xml
